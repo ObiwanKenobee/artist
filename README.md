@@ -141,7 +141,8 @@ Contributions are welcome! To contribute:
 ## 📜 **License**
 This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
 
----
+---![Surreal, dreamlike image of Davido in a sound-reactive suit performing on a fantastical stage  The scene features holographic visuals, African symbols, AR voting, wearable tech, AI-driven visuals, and virtual instruments   Adorable, charming featu…](https://github.com/user-attachments/assets/3c09b733-16d5-4d20-9818-9bf0f37ce708)
+
 
 ## 📧 **Contact**
 Have questions? Reach out!
@@ -149,5 +150,7 @@ Have questions? Reach out!
 - GitHub: [Neo](https://github.com/ObeWankenobee)
 
 ---
+
+
 
 ### **Let’s Redefine Music Together! 🎶**
