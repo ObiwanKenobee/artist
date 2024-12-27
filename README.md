@@ -1,6 +1,6 @@
 # 🎨 Artist-Tech Ecosystem: Powered by Innovation and Vue.js
 
-Welcome to the **Artist-Tech Ecosystem**, an innovative platform designed to revolutionize how artists like Nyashinski, Davido and Ric H blend music, fashion, and technology. This system is built using Vue.js and integrates immersive, interactive tools to enhance creativity and fan engagement.
+Welcome to the **Artist-Tech Ecosystem**, an innovative platform designed to revolutionize how artists like Nyashinski blend music, fashion, and technology. This system is built using Vue.js and integrates immersive, interactive tools to enhance creativity and fan engagement.
 
 ---
 
